@@ -8,3 +8,12 @@ This repository serves as a catch-all for learning ML and experimenting with ML,
 * Implement CNN
 * Setup dev environment
 * Explore visualization tools
+* Implement Jupyter notebook usage
+
+## tools
+* Keras
+* Tensorflow
+* SciKit
+* Numpy
+* Pandas
+* Atom/Hydrogen
